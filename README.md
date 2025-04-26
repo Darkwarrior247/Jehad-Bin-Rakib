@@ -40,6 +40,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkwarrior247&theme=react"alt="Stats"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkwarrior247&theme=react" alt="RpLng" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lifaet&theme=react" alt="CMTLng" />
+
+  
 </div>
 
 <br />
