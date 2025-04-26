@@ -36,8 +36,8 @@
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <br />
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JehadRakib&theme=react" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JehadRakib&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkwarrior247&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkwarrior247&theme=react" />
 </div>
 
 <br />
