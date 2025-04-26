@@ -38,8 +38,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkwarrior247&theme=react" alt="Profile Summary"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkwarrior247&theme=react"alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darkwarrior247&theme=react" alt="PDTime" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkwarrior247&theme=react" alt="RpLng" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkwarrior247&theme=react" alt="RPLng" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lifaet&theme=react" alt="CMTLng" />
 
   
