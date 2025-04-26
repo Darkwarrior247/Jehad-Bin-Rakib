@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   push:
     branches:
-      - main  # You can replace 'main' with your default branch name if it's different
+      - main  # Replace 'main' with the default branch name if different.
 
 jobs:
   generate-snake:
@@ -13,13 +13,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    # Step to create the directory if it doesn't exist
-    - name: Create output directory
+    # Ensure 'dist' directory is created before proceeding with snake generation
+    - name: Create dist directory
       run: mkdir -p dist
 
     - name: Generate Snake
       uses: Platane/snk@v1.3
       with:
         github_user_name: Darkwarrior247  # Your GitHub username
-        svg_out_path: dist/github-contribution-grid-snake.svg  # Path to save the SVG image
-        gif_out_path: dist/github-contribution-grid-snake.gif  # (Optional) If you want a GIF as well
+        svg_out_path: dist/github-contribution-grid-snake.svg  # Path to store the SVG
+        gif_out_path: dist/github-contribution-grid-snake.gif  # Optional: Path for GIF output
