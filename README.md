@@ -44,5 +44,5 @@
 
 <div align="center">
   <h2>🐍 My GitHub Contributions 🐍</h2>
-  <img src="[https://raw.githubusercontent.com/JehadRakib/JehadRakib/output/github-contribution-grid-snake.svg" alt="Snake animation](https://raw.githubusercontent.com/Darkwarrior247/Darkwarrior247/output/github-contribution-grid-snake.svg" alt="Snake animation)" />
+  <img src="https://raw.githubusercontent.com/Darkwarrior247/Darkwarrior247/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
