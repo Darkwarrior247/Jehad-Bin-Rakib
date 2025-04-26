@@ -42,7 +42,7 @@
 
 <br />
 
-<h2>🐍 My Contributions 🐍</h2>
+## 🐍 My Contributions 🐍
 <br>
 
 <picture>
