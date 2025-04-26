@@ -9,16 +9,16 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/JehadRakib">
+  <a href="https://github.com/Darkwarrior247">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://facebook.com/YOURFACEBOOKUSERNAME">
+  <a href="https://facebook.com/jehad.binrakib">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOURLINKEDINUSERNAME">
+  <a href="https://linkedin.com/in/jehad-bin-rakib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOURINSTAGRAMUSERNAME">
+  <a href="https://instagram.com/jehadbinrakib">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
