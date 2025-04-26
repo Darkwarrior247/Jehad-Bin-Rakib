@@ -35,11 +35,11 @@
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <br />
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkwarrior247&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkwarrior247&theme=react" alt="Profile Summary"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkwarrior247&theme=react"alt="Stats"/>
   <br/>
-  <img src="https://github-profile-summary-ards.vercel.app/api/cards/reposperlanguageusername=Darkwarrior247&theme=react"alt="RpLng" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darkwarrior247&theme=react" alt="RpLng" />
 </div>
 
 <br />
