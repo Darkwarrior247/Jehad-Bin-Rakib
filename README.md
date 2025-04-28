@@ -37,10 +37,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darkwarrior247&theme=react" alt="Most Commit Language" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkwarrior247&theme=react" alt="Stats" />
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darkwarrior247&theme=react" alt="Productive Time" />
 </div>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darkwarrior247&theme=react" alt="Productive Time)
 
 <br />
 
