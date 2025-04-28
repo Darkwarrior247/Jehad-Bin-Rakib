@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:    # Allow manual triggering
+    - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -13,10 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create dist folder
-        run: mkdir -p dist
-
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Darkwarrior247
