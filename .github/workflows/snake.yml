@@ -13,6 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -20,7 +23,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          output_folder: dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
