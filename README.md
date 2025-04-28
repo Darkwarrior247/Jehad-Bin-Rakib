@@ -38,8 +38,9 @@
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkwarrior247&theme=react" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darkwarrior247&theme=react" alt="Productive Time" />
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=John-Islam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Islam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br />
 
