@@ -13,9 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create dist directory
-        run: mkdir -p dist
-
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
